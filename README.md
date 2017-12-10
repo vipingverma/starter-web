@@ -6,6 +6,9 @@ This repository is for showing how Git and GitHub work
 
 This is for showing the differences between multiple sections
 
+## Copyright
+Here is the copyright info
+
 ## Introduction
 
 ## Purpose
