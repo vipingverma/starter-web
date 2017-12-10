@@ -8,6 +8,7 @@ This is for showing the differences between multiple sections
 
 ## Copyright
 Here is the copyright info
+Addinga  line for rebasing
 
 ## Introduction
 
