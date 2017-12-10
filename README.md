@@ -17,3 +17,6 @@ Sample website with plenty of files for demos
 ## Deployment
 
 ## new section 1
+
+## new section 2
+Added second new section
