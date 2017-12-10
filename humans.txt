@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Vipin v.v@v.com twit1
+	
 
 # THANKS
 
