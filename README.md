@@ -16,6 +16,7 @@ Here is the copyright info
 Sample website with plenty of files for demos
 
 ## How to Contribute
+Please fork this and issue fork
 
 ## Deployment
 
