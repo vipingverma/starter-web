@@ -20,3 +20,9 @@ Sample website with plenty of files for demos
 
 ## new section 2
 Added second new section
+
+## New Section 3
+Added new section 3
+
+## New Section 4
+New section 4
