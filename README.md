@@ -9,6 +9,7 @@ This is for showing the differences between multiple sections
 ## Copyright
 Here is the copyright info
 Addinga  line for rebasing
+Adding a line for rebasing example in Master
 
 ## Introduction
 
